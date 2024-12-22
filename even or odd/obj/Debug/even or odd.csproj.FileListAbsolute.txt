@@ -1,0 +1,10 @@
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even or odd.csproj.AssemblyReference.cache
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even_or_odd.Form1.resources
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even_or_odd.Properties.Resources.resources
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even or odd.csproj.GenerateResource.cache
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even or odd.csproj.CoreCompileInputs.cache
+C:\Users\glucs\source\repos\even or odd\even or odd\bin\Debug\even or odd.exe.config
+C:\Users\glucs\source\repos\even or odd\even or odd\bin\Debug\even or odd.exe
+C:\Users\glucs\source\repos\even or odd\even or odd\bin\Debug\even or odd.pdb
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even or odd.exe
+C:\Users\glucs\source\repos\even or odd\even or odd\obj\Debug\even or odd.pdb
