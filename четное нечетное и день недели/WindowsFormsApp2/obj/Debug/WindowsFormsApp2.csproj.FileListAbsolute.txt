@@ -1,0 +1,20 @@
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\UBKstud\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Задание 2 Практика 2 чётное не чётное\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

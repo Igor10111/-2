@@ -1,0 +1,10 @@
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day week.csproj.AssemblyReference.cache
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day_week.Form1.resources
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day_week.Properties.Resources.resources
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day week.csproj.GenerateResource.cache
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day week.csproj.CoreCompileInputs.cache
+C:\Users\ubkstud\source\repos\Day week\Day week\bin\Debug\Day week.exe.config
+C:\Users\ubkstud\source\repos\Day week\Day week\bin\Debug\Day week.exe
+C:\Users\ubkstud\source\repos\Day week\Day week\bin\Debug\Day week.pdb
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day week.exe
+C:\Users\ubkstud\source\repos\Day week\Day week\obj\Debug\Day week.pdb
